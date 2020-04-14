@@ -1,2 +1,2 @@
 export JWT_SECRET='kubernetessecret'
-export LOG_LEVEL=DEBUG
+export LOG_LEVEL=DEBUG 
